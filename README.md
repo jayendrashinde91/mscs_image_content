@@ -1,9 +1,4 @@
----
-title: "Microsoft Cognitive Services:Computer Vision API"
-author: "Jayendra Shinde"
-date: "January 2, 2017"
-output: html_document
----
+
 
 ***
 ## Introduction
