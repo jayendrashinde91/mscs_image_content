@@ -2,7 +2,7 @@
 
 
 Analyse_image = function(input_image=input_image,
-                        MCCS_Key=MCCS_Key,
+                        MSCS_Key=MSCS_Key,
                         visualFeature_options = visualFeature_options,
                         detail_options=NULL)
   #### VISION
@@ -20,7 +20,7 @@ Analyse_image = function(input_image=input_image,
   if(is_url==TRUE){
     AnalyzePic <-POST(url = MS_CS_URL,
                        content_type('application/json'),
-                       add_headers(.headers = c('Ocp-Apim-Subscription-Key' = MCCS_Key)),
+                       add_headers(.headers = c('Ocp-Apim-Subscription-Key' = MSCS_Key)),
                        body=list(url = input_image),
                        encode = "json")
   }
@@ -29,7 +29,7 @@ Analyse_image = function(input_image=input_image,
     AnalyzePic <- POST(MS_CS_URL,
                         body = body_image,
                         add_headers(.headers = c("Content-Type"="application/octet-stream",
-                                                 "Ocp-Apim-Subscription-Key"=MCCS_Key)))
+                                                 "Ocp-Apim-Subscription-Key"=MSCS_Key)))
     
   }
   
