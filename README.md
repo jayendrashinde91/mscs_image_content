@@ -1,5 +1,4 @@
-
-#Image Content Analysis
+#Starter Code for Image Content Analysis
 
 ***
 ## Introduction
@@ -10,13 +9,6 @@ Here are some cool applications developed in R which are powered by the Microsof
 
 ***
 
-## Starter Code
--R code available on my [GitHub ](https://github.com/jayendrashinde91/mscs_image_content) page
-
--Your personal API-Key which can be obtained by signing up for [GET STARTED FOR FREE](https://www.microsoft.com/cognitive-services/en-us/sign-up/)
-
-
-***
 
 ## Applications
 ***
