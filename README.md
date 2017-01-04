@@ -1,5 +1,5 @@
-#Microsoft Cognitive Services: <br> Image Content Analysis
-#Starter Code for Image Content Analysis
+
+#Starter Code for <br> Microsoft Cognitive Services: <br> Image Content Analysis
 
 ***
 ## Introduction
