@@ -20,7 +20,7 @@ Here are some cool applications developed in R which are powered by the Microsof
 
 
 2].Twitterbot powered by Microsoft Computer Vision algorithms:
-[telltalebot ](http://telltalebot.herokuapp.com/)
+[telltalebot](http://telltalebot.herokuapp.com/)
 
 
 
